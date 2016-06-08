@@ -2,6 +2,8 @@
 #include <TimerOne.h>
 #include <TimerThree.h>
 
+// test comments
+
 
 int DAI = 6;  // Serial input DM13A pin 2
 int DCK = 7;  // Clock DM13A pin 3
