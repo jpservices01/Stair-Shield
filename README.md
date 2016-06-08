@@ -1,4 +1,9 @@
 # Stair-Shield
+Project to control the LEDs in a staircase using a Arduino Mega 2560 and the shield uploaded here
+The idea is to use a shift register to control the Leds independently so that there is not too much power drawn to the Mega 2560 controller. The shift register output intensity is controlled by one resistor and a PWM output.
+
+There are actually one control per stairs with 15 Leds per stairs.
+
 Used Kicad version 4.0.1
 Used PCBNew 4.0.1
 
